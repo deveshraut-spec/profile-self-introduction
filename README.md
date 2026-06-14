@@ -1,4 +1,4 @@
-# Hey gus, I'm Devesh 👋
+# Hello guys, I'm Devesh 👋
 # 404: Boring intro not found ⛓️‍💥☣️☢️❗
 # Loading awesome profile... done — Devesh-spec ⏳✅
 
