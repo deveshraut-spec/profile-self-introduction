@@ -20,6 +20,7 @@ No fancy degree yet, just curiosity, a laptop, and a habit of googling errors at
 
 ## 🛠️ Things I've Built
 
+- **[World AI Study Copilot](https://github.com/deveshraut-spec/World-Study-Ai-Copilot)** — A free, all-in-one AI-powered study workspace with smart planner, note generator, exam simulator (USMLE/UPSC/IIT JEE), live AI blackboard tutor, OCR homework scanner, and gamified streaks. Built with React, TypeScript, Node.js & Gemini 2.5 Flash. 📖🤖
 - **[The Android Phone Interface](https://github.com/deveshraut-spec/the-Android-Phone-Interface)** — An offline, fully functional simulation of a premium Android phone, built with Kotlin & Jetpack Compose. 📱
 - **[Prompt-to-Code AI Generator](https://github.com/deveshraut-spec/prompt-to-code-Ai-generator)** — A workspace that turns plain English prompts into working web apps in real time. ⚡
 - **[Webcam Gesture Bubble Shooter](https://github.com/deveshraut-spec/Webcam-Gesture-Bubble-Shooter)** — A classic arcade game controlled entirely by hand gestures via webcam, powered by local computer vision. 🫧
